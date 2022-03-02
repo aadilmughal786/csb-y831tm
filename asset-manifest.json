@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://aadilmughal786.github.io/csb-y831tm/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://aadilmughal786.github.io/csb-y831tm/static/js/main.fb7c00ba.chunk.js",
+    "main.js.map": "https://aadilmughal786.github.io/csb-y831tm/static/js/main.fb7c00ba.chunk.js.map",
+    "runtime-main.js": "https://aadilmughal786.github.io/csb-y831tm/static/js/runtime-main.271c06b7.js",
+    "runtime-main.js.map": "https://aadilmughal786.github.io/csb-y831tm/static/js/runtime-main.271c06b7.js.map",
+    "static/css/2.a1596f27.chunk.css": "https://aadilmughal786.github.io/csb-y831tm/static/css/2.a1596f27.chunk.css",
+    "static/js/2.e19de5b3.chunk.js": "https://aadilmughal786.github.io/csb-y831tm/static/js/2.e19de5b3.chunk.js",
+    "static/js/2.e19de5b3.chunk.js.map": "https://aadilmughal786.github.io/csb-y831tm/static/js/2.e19de5b3.chunk.js.map",
+    "index.html": "https://aadilmughal786.github.io/csb-y831tm/index.html",
+    "static/css/2.a1596f27.chunk.css.map": "https://aadilmughal786.github.io/csb-y831tm/static/css/2.a1596f27.chunk.css.map",
+    "static/css/main.f29ae65a.chunk.css.map": "https://aadilmughal786.github.io/csb-y831tm/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.e19de5b3.chunk.js.LICENSE.txt": "https://aadilmughal786.github.io/csb-y831tm/static/js/2.e19de5b3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.271c06b7.js",
+    "static/css/2.a1596f27.chunk.css",
+    "static/js/2.e19de5b3.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.fb7c00ba.chunk.js"
+  ]
+}
